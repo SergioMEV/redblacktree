@@ -1,4 +1,4 @@
-package redblacknode;
+package redblacktree;
 
 public class RedBlackNode{
     int key;
