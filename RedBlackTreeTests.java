@@ -1,4 +1,4 @@
-package redblcaktree;
+package redblacktree;
 
 public class RedBlackTreeTests { 
 
