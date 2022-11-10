@@ -1,4 +1,4 @@
-package rbt;
+package redblacktree;
 
 public class RedBlackTree{
     private RedBlackNode root;
