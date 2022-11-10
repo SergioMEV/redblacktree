@@ -1,4 +1,4 @@
-package pset3;
+package redblacknode;
 
 public class RedBlackNode{
     int key;
